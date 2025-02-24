@@ -68,8 +68,7 @@ const setActive = (index) => {
 
 <style lang="scss">
 .sidebar {
-  background-color: var(--v-theme-background);
-  ;
+  background-color: #FFF;
   width: 273px;
   padding: 0 15px;
   border: none;

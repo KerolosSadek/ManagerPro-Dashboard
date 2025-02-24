@@ -13,9 +13,9 @@
 
         <!-- Right Section: Icons & User Menu -->
         <v-col cols="6" lg="6" md="4" sm="4" class="d-flex align-center justify-end">
-          <div class="dark-mode">
+          <!-- <div class="dark-mode">
             <BaseThemeToggle />
-          </div>
+          </div> -->
           <v-btn icon class="mx-1">
             <img src="@/assets/icons/basket.svg" alt="Basket" />
           </v-btn>
