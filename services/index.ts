@@ -2,7 +2,7 @@ import axios, { AxiosInstance } from 'axios'
 import { useAuthStore } from '@/store/authStore'
 import { useRouter } from 'vue-router'
 
-const BASE_URL = 'http://localhost:3000'
+const BASE_URL = 'https://manager-pro-dashboard.vercel.app'
 
 const apiClient: AxiosInstance = axios.create({
     baseURL: BASE_URL,
