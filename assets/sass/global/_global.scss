@@ -1,0 +1,18 @@
+:root {
+    --primary-bg: white;
+    --primary-text: black;
+}
+
+.dark-mode {
+    --primary-bg: #121212;
+    --primary-text: white;
+}
+
+body {
+    background-color: var(--primary-bg);
+    color: var(--primary-text);
+}
+
+.v-app-bar {
+    background-color: var(--primary-bg) !important;
+}

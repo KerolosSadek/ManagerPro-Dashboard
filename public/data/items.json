@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "image": "https://via.placeholder.com/100",
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "price": 99.99,
+        "stock": 50,
+        "status": "Available"
+    },
+    {
+        "id": 2,
+        "image": "https://via.placeholder.com/100",
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 699.99,
+        "stock": 30,
+        "status": "Available"
+    },
+    {
+        "id": 3,
+        "image": "https://via.placeholder.com/100",
+        "name": "Gaming Laptop",
+        "category": "Computers",
+        "price": 1299.99,
+        "stock": 10,
+        "status": "Limited Stock"
+    },
+    {
+        "id": 4,
+        "image": "https://via.placeholder.com/100",
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "price": 299.99,
+        "stock": 5,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 5,
+        "image": "https://via.placeholder.com/100",
+        "name": "Portable Speaker",
+        "category": "Electronics",
+        "price": 79.99,
+        "stock": 20,
+        "status": "Available"
+    },
+    {
+        "id": 6,
+        "image": "https://via.placeholder.com/100",
+        "name": "Wireless Mouse",
+        "category": "Computers",
+        "price": 19.99,
+        "stock": 50,
+        "status": "Available"
+    },
+    {
+        "id": 7,
+        "image": "https://via.placeholder.com/100",
+        "name": "External Hard Drive",
+        "category": "Computers",
+        "price": 99.99,
+        "stock": 15,
+        "status": "Limited Stock"
+    },
+    {
+        "id": 8,
+        "image": "https://via.placeholder.com/100",
+        "name": "Bluetooth Keyboard",
+        "category": "Computers",
+        "price": 49.99,
+        "stock": 25,
+        "status": "Available"
+    },
+    {
+        "id": 9,
+        "image": "https://via.placeholder.com/100",
+        "name": "Portable Monitor",
+        "category": "Computers",
+        "price": 199.99,
+        "stock": 5,
+        "status": "Out of Stock"
+    },
+    {
+        "id": 10,
+        "image": "https://via.placeholder.com/100",
+        "name": "Smart Home Camera",
+        "category": "Electronics",
+        "price": 149.99,
+        "stock": 10,
+        "status": "Limited Stock"
+    },
+    {
+        "id": 11,
+        "image": "https://via.placeholder.com/100",
+        "name": "Wireless Earbuds",
+        "category": "Electronics",
+        "price": 79.99,
+        "stock": 30,
+        "status": "Available"
+    },
+    {
+        "id": 12,
+        "image": "https://via.placeholder.com/100",
+        "name": "Smart Thermostat",
+        "category": "Electronics",
+        "price": 199.99,
+        "stock": 10,
+        "status": "Limited Stock"
+    },
+    {
+        "id": 13,
+        "image": "https://via.placeholder.com/100",
+        "name": "Smart Home Speaker",
+        "category": "Electronics",
+        "price": 199.99,
+        "stock": 15,
+        "status": "Available"
+    },
+    {
+        "id": 14,
+        "image": "https://via.placeholder.com/100",
+        "name": "Wireless Charger",
+        "category": "Electronics",
+        "price": 29.99,
+        "stock": 20,
+        "status": "Available"
+    },
+    {
+        "id": 15,
+        "image": "https://via.placeholder.com/100",
+        "name": "USB-C Hub",
+        "category": "Computers",
+        "price": 49.99,
+        "stock": 10,
+        "status": "Limited Stock"
+    }
+]

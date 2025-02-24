@@ -1,0 +1,30 @@
+
+[
+    {
+        "title": "Total Revenue",
+        "value": "$52.6k",
+        "percentage": "+3.4%",
+        "isIncrease": true,
+        "icon": "./icons/revenu.svg"
+    },
+    {
+        "title": "Today Orders",
+        "value": "$1024",
+        "percentage": "-5.5%",
+        "isIncrease": false,
+        "icon": "./icons/revenu.svg"
+    },
+    {
+        "title": "Items Sold",
+        "value": "22",
+        "percentage": "",
+        "isIncrease": true,
+        "icon": "./icons/sold.svg"
+    },
+    {
+        "title": "Users Active",
+        "value": "10",
+        "isIncrease": true,
+        "icon": "./icons/activeUsers.svg"
+    }
+]

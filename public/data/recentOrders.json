@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "./imgs/iphone.svg",
+        "name": "Iphone 13",
+        "qty": 1,
+        "orderDate": "January 20, 2022",
+        "amount": "$799.00",
+        "status": "Pending",
+        "statusColor": "#DFF0FF"
+    },
+    {
+        "id": 2,
+        "image": "./imgs/xiaomi.svg",
+        "name": "Xiaomi Redmi Note 10",
+        "qty": 1,
+        "orderDate": "January 20, 2022",
+        "amount": "$799.00",
+        "status": "Approved",
+        "statusColor": "#E6FDE6"
+    },
+    {
+        "id": 3,
+        "image": "./imgs/iphone.svg",
+        "name": "Iphone 13",
+        "qty": 1,
+        "orderDate": "January 20, 2022",
+        "amount": "$799.00",
+        "status": "In Process",
+        "statusColor": "#FFF4DF"
+    },
+    {
+        "id": 4,
+        "image": "./imgs/xiaomi.svg",
+        "name": "Xiaomi Redmi Note 10",
+        "qty": 1,
+        "orderDate": "January 20, 2022",
+        "amount": "$799.00",
+        "status": "Approved",
+        "statusColor": "#E6FDE6"
+    },
+    {
+        "id": 5,
+        "image": "./imgs/iphone.svg",
+        "name": "Iphone 13",
+        "qty": 1,
+        "orderDate": "January 20, 2022",
+        "amount": "$799.00",
+        "status": "In Process",
+        "statusColor": "#FFF4DF"
+    },
+    {
+        "id": 6,
+        "image": "./imgs/xiaomi.svg",
+        "name": "Xiaomi Redmi Note 10",
+        "qty": 1,
+        "orderDate": "January 20, 2022",
+        "amount": "$799.00",
+        "status": "Approved",
+        "statusColor": "#E6FDE6"
+    }
+]

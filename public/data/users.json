@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "role": "Admin",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "role": "Editor",
+        "status": "Inactive"
+    },
+    {
+        "id": 3,
+        "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+        "name": "Michael Johnson",
+        "email": "michael.johnson@example.com",
+        "role": "User",
+        "status": "Pending"
+    },
+    {
+        "id": 4,
+        "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+        "name": "Emily Davis",
+        "email": "emily.davis@example.com",
+        "role": "Moderator",
+        "status": "Active"
+    },
+    {
+        "id": 5,
+        "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+        "name": "Robert Wilson",
+        "email": "robert.wilson@example.com",
+        "role": "User",
+        "status": "Banned"
+    },
+    {
+        "id": 6,
+        "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+        "name": "Olivia Brown",
+        "email": "olivia.brown@example.com",
+        "role": "Admin",
+        "status": "Active"
+    },
+    {
+        "id": 7,
+        "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+        "name": "William Miller",
+        "email": "william.miller@example.com",
+        "role": "Editor",
+        "status": "Inactive"
+    },
+    {
+        "id": 8,
+        "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+        "name": "Sophia Anderson",
+        "email": "sophia.anderson@example.com",
+        "role": "User",
+        "status": "Pending"
+    },
+    {
+        "id": 9,
+        "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+        "name": "James Martinez",
+        "email": "james.martinez@example.com",
+        "role": "Moderator",
+        "status": "Active"
+    },
+    {
+        "id": 10,
+        "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+        "name": "Emma White",
+        "email": "emma.white@example.com",
+        "role": "User",
+        "status": "Banned"
+    },
+    {
+        "id": 11,
+        "avatar": "https://randomuser.me/api/portraits/men/11.jpg",
+        "name": "Daniel Taylor",
+        "email": "daniel.taylor@example.com",
+        "role": "Admin",
+        "status": "Active"
+    },
+    {
+        "id": 12,
+        "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+        "name": "Ava Harris",
+        "email": "ava.harris@example.com",
+        "role": "Editor",
+        "status": "Inactive"
+    },
+    {
+        "id": 13,
+        "avatar": "https://randomuser.me/api/portraits/men/13.jpg",
+        "name": "David Clark",
+        "email": "david.clark@example.com",
+        "role": "User",
+        "status": "Pending"
+    },
+    {
+        "id": 14,
+        "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+        "name": "Mia Lewis",
+        "email": "mia.lewis@example.com",
+        "role": "Moderator",
+        "status": "Active"
+    },
+    {
+        "id": 15,
+        "avatar": "https://randomuser.me/api/portraits/men/15.jpg",
+        "name": "Ethan Walker",
+        "email": "ethan.walker@example.com",
+        "role": "User",
+        "status": "Banned"
+    },
+    {
+        "id": 16,
+        "avatar": "https://randomuser.me/api/portraits/women/16.jpg",
+        "name": "Isabella Hall",
+        "email": "isabella.hall@example.com",
+        "role": "Admin",
+        "status": "Active"
+    },
+    {
+        "id": 17,
+        "avatar": "https://randomuser.me/api/portraits/men/17.jpg",
+        "name": "Matthew Allen",
+        "email": "matthew.allen@example.com",
+        "role": "Editor",
+        "status": "Inactive"
+    },
+    {
+        "id": 18,
+        "avatar": "https://randomuser.me/api/portraits/women/18.jpg",
+        "name": "Charlotte Young",
+        "email": "charlotte.young@example.com",
+        "role": "User",
+        "status": "Pending"
+    },
+    {
+        "id": 19,
+        "avatar": "https://randomuser.me/api/portraits/men/19.jpg",
+        "name": "Joseph Hernandez",
+        "email": "joseph.hernandez@example.com",
+        "role": "Moderator",
+        "status": "Active"
+    },
+    {
+        "id": 20,
+        "avatar": "https://randomuser.me/api/portraits/women/20.jpg",
+        "name": "Amelia King",
+        "email": "amelia.king@example.com",
+        "role": "User",
+        "status": "Banned"
+    }
+]
