@@ -17,7 +17,7 @@ onMounted(() => {
 </script>
 <style lang="scss">
 .reports-page {
-  background-color: #f8fafb;
+  background-color: #FFF;
   padding: 20px;
 
   .reports-title {

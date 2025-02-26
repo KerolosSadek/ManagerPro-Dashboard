@@ -12,12 +12,12 @@
 import { useOrdersStore } from "~/store/orders";
 const ordersStore = useOrdersStore();
 onMounted(() => {
-  ordersStore.getAllOrders();
+    ordersStore.getAllOrders();
 });
 </script>
 <style lang="scss">
 .orders-page {
-    background-color: #f8fafb;
+    background-color: #FFF;
     padding: 20px;
 
     .orders-title {

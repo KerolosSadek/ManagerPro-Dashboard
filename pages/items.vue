@@ -18,7 +18,7 @@ onMounted(() => {
 </script>
 <style lang="scss">
 .orders-page {
-    background-color: #f8fafb;
+    background-color: #FFF;
     padding: 20px;
 
     .orders-title {

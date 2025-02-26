@@ -18,7 +18,7 @@ onMounted(() => {
 </script>
 <style lang="scss">
 .Users-page {
-    background-color: #f8fafb;
+    background-color: #FFF;
     padding: 20px;
 
     .Users-title {

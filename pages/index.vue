@@ -62,7 +62,7 @@ onMounted(async () => {
 
 <style lang="scss">
 .dashboard-home-page {
-    background-color: #f8fafb;
+    background-color: #FFF;
     padding: 20px;
 
     .orders-title {
